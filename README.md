@@ -16,7 +16,7 @@ This is a simple HotelManagement tool that utilizes data from/to the sql databas
 * Overview: full data grid view of occupancy
 
 
-
+ 
 #[Login]
 * Kitchen - Username: kitchen , password: kitchen
 * FrontEnd - Username: admin , password: admin
